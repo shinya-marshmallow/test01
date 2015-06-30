@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>ましゅうぉり</title>
+	<title>ましゅまろ</title>
 	<style>
 		body {
 			background-color:#ddd;
@@ -80,9 +80,9 @@ b4,数少ない４年チーム<br>
 
 <!-- (team3)Thallium -->
 
-	<h1><!-- チーム名 --></h1>
+	<h1><!--Thallium --></h1>
 
-	<!-- このあたりに紹介文を書く -->
+	<!-- でこぽん、貴一、うっちー -->
 
 <!-- (team3)Thallium おわり -->
 
